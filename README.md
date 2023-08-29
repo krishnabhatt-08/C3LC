@@ -24,8 +24,8 @@
 Clone the repository to your local machine:
 
    ``bash
-   git clone https://github.com/yourusername/spacecraft-simulation.git
-   cd spacecraft-simulation
+   git clone https://github.com/krishnabhatt-08/C3LC
+   cd C3LC
    
 Install the required dependencies:
 
